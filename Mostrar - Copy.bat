@@ -1,0 +1,1 @@
+java -jar "D:\NetBeansProjects\Tesis\1_radonTransform\dist\1_radonTransform.jar" -CONFIG D:\

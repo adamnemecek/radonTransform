@@ -1,0 +1,4 @@
+-IN /media/mike/DATA/MIKE_CORPUS_2/443.png
+-OUT /media/mike/DATA/MIKE_CORPUS_SKEW/443.png
+-SAVE_ANGLE true
+-JAR_ROTATE /media/mike/HDD/CLEF/1_radonTransform/3012_rotateImage.jar

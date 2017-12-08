@@ -1,0 +1,1 @@
+java -jar "D:\CLEF\1_radonTransform\dist\radonTransformAll.jar" %1 %2 %3 %4

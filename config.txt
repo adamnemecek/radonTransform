@@ -1,0 +1,3 @@
+-IN  C:\Users\mike\Documents\paperLKE\ptak\a\dokument__a.jpg
+-OUT  C:\Users\mike\Documents\paperLKE\ptak\a\dokument__a_R.jpg
+-JAR_ROTATE D:\CLEF\1_radonTransform\3012_rotateImage.jar
